@@ -20,6 +20,7 @@ brew install Battle-Creek-LLC/tap/<formula>
 | Formula | Description | Upstream |
 |---|---|---|
 | `moot` | Send a Recall.ai bot to a meeting, capture the transcript, generate notes | [Battle-Creek-LLC/moot](https://github.com/Battle-Creek-LLC/moot) |
+| `repocat` | GitHub repository hardening CLI driven by a declarative `.repo.yml` baseline | [Battle-Creek-LLC/repocat](https://github.com/Battle-Creek-LLC/repocat) |
 
 ## License
 
