@@ -21,6 +21,8 @@ brew install Battle-Creek-LLC/tap/<formula>
 |---|---|---|
 | `moot` | Send a Recall.ai bot to a meeting, capture the transcript, generate notes | [Battle-Creek-LLC/moot](https://github.com/Battle-Creek-LLC/moot) |
 | `repocat` | GitHub repository hardening CLI driven by a declarative `.repo.yml` baseline | [Battle-Creek-LLC/repocat](https://github.com/Battle-Creek-LLC/repocat) |
+| `ward` | Claude Code hook CLI — PII guard, leak detection, event logging | [Battle-Creek-LLC/ward](https://github.com/Battle-Creek-LLC/ward) |
+| `exp` | CLI experiment tracker for agent runs, prompt testing, and simulations | [Battle-Creek-LLC/exp](https://github.com/Battle-Creek-LLC/exp) |
 
 ## License
 
